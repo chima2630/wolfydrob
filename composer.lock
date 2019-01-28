@@ -1,6 +1,5 @@
 {
-    "name": "acme/blog",
     "require": {
-        "acme/hello-world": "dev-master"
+        "monolog/monolog": "1.0.*"
     }
 }
